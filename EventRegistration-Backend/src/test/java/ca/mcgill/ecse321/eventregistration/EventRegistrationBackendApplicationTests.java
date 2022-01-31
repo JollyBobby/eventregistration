@@ -10,4 +10,4 @@ class EventRegistrationBackendApplicationTests {
 	void contextLoads() {
 	}
 
-}
+} git push heroku <branchname>:main
